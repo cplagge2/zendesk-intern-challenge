@@ -18,7 +18,7 @@ Download all files.
         
    Where subdomain is the subdomain you wish to query,
    username is the username used to authenticate,
-   token is the token used to authenticate
+   and token is the token used to authenticate
    
 3. Follow the prompts on the screen to use the Ticket Viewer!
 
